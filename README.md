@@ -1,4 +1,4 @@
 # MyApp
 In the beginning of my learning for programming, I use Java to do some work.
-There is all my create by using Java.
-Just a practice and I use them to record my study.
+There are all created by using Java. The first language I learn.
+It's just a practice and I use them to record my study.
